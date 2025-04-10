@@ -8,11 +8,11 @@ This paper introduces a novel and efficient optimizer derived from differential 
 @article{Zhong:25,  
 title = {Competitive Differential Evolution with Knowledge Inheritance for Single-Objective Human-Powered Aircraft Design},  
 journal = {The Journal of Supercomputing},  
-volume = {},  
-pages = {},  
+volume = {81},  
+pages = {721},  
 year = {2025},  
-note = {Accepted},  
 author = {Rui Zhong and Yang Cao and Enzhi Zhang and Masaharu Munetomo},  
+doi = {https://doi.org/10.1007/s11227-024-06859-3 }  
 }  
 
 ## Datasets and Libraries
